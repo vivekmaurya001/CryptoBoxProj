@@ -1,0 +1,63 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap");
+
+
+body {
+    font-family: "Open Sans", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.Mainbox{
+    background-color: #0f0e13;
+}
+
+@media(max-width:976px){
+    html{
+        font-size: 70%;
+    }
+}
+.ant-select {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    /* 50% opacity background */
+    color: #ffffff !important;
+}
+
+.ant-select-selector {
+    background-color: rgba(95, 88, 88, 0.5) !important;
+    /* 50% opacity for the selector box background */
+    color: #ffffff !important;
+}
+
+.ant-select-dropdown {
+    background-color: rgba(46, 45, 49, 1) !important;
+    /* 50% opacity dropdown background */
+}
+
+.ant-select-item-option-content {
+    color: #ffffff !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 1rem !important;
+    /* 50% opacity for the dropdown item text */
+}
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #817d7d;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
