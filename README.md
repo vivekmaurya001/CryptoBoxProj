@@ -63,6 +63,6 @@
 
 ## Links
 
-- **Deployed Site**: [https://crypto-box01.vercel.app](#)
+- **Deployed Site**: [Deployed Link](https://crypto-box01.vercel.app)
 - **Video Demo**: [Insert Video Link Here](#)
 
