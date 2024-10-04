@@ -45,7 +45,7 @@
    - Real-time price data is fetched using Chainlink scripts deployed on the Optimism Mainnet with an Infura project ID.
    - Historical data is retrieved from the Coinranking API for price history and other coin details.
   
-   ![Architecture](https://freeimage.host/i/db6YqNV)
+   ![Architecture](https://iili.io/db6YqNV.png)
 
 ## Challenges Faced
 
